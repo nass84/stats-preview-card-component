@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images\31 - landscape.png
+![landscape mode]https://i.imgur.com/PkvjTDb.pngg
 
-![](./images\31 - portrait.png
+![portrait mode]https://i.imgur.com/Ytaqh47.png
 
 
 
@@ -60,6 +60,8 @@ p {
 
 - How to embed google fonts 
 
+- When uploading local images don't leave the \ in.
+
 - You can loose a whole evening trying to get sizing perfect 
 
 ### Continued development
@@ -76,7 +78,10 @@ Start with Flex as when i tried to add it afterwards it made everything disapear
 ## Author
 
 - Twitter - https://twitter.com/boredinbrum
+- Github - https://github.com/nass84
 
 ## Acknowledgments
 
-https://www.schoolofcode.co.uk/ 
+https://www.schoolofcode.co.uk/ for teaching me the skills
+
+Max Edwards for fixing Git Hub for me. 
